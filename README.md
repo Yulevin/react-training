@@ -1,0 +1,1 @@
+# This react examples and training assignments found on the Internet.
