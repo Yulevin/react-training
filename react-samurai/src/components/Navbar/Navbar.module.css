@@ -1,0 +1,25 @@
+.nav {
+    grid-area: n;
+    background: rgb(139, 212, 81);
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: none;
+    color: darkblue;
+    font-weight: bold;
+}
+.nav a.activeLink {
+    color: darkblue;
+    font-weight: bold;
+}
+
+ul, li {
+    list-style-type: none;
+}

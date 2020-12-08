@@ -1,0 +1,9 @@
+.content {
+    grid-area: c;
+    background: rgb(65, 198, 240);
+}
+
+div {
+    padding: 20px;
+}
+
