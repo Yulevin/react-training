@@ -1,9 +1,12 @@
 .userPhoto {
     width: 0.1%;
-    /*width: 200px;*/
-    /*height: 200px;*/
 }
 
 .selectedPage {
     font-weight: bold;
+}
+
+.preloader {
+    width: 10%;
+    margin: 0 auto;
 }
